@@ -1,0 +1,8 @@
+D:\repos\Laboratory works\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\LaboratoryWork_5.exe.config
+D:\repos\Laboratory works\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\LaboratoryWork_5.exe
+D:\repos\Laboratory works\LaboratoryWork_5\LaboratoryWork_5\bin\Debug\LaboratoryWork_5.pdb
+D:\repos\Laboratory works\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\LaboratoryWork_5.csproj.AssemblyReference.cache
+D:\repos\Laboratory works\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\LaboratoryWork_5.csproj.SuggestedBindingRedirects.cache
+D:\repos\Laboratory works\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\LaboratoryWork_5.csproj.CoreCompileInputs.cache
+D:\repos\Laboratory works\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\LaboratoryWork_5.exe
+D:\repos\Laboratory works\LaboratoryWork_5\LaboratoryWork_5\obj\Debug\LaboratoryWork_5.pdb
