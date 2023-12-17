@@ -1,0 +1,15 @@
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\bin\Debug\net6.0\Task_1.exe
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\bin\Debug\net6.0\Task_1.deps.json
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\bin\Debug\net6.0\Task_1.runtimeconfig.json
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\bin\Debug\net6.0\Task_1.dll
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\bin\Debug\net6.0\Task_1.pdb
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\Task_1.dll
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\refint\Task_1.dll
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\Task_1.pdb
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+D:\repos\Laboratory works\LaboratoryWork_6\LaboratoryWork_6\obj\Debug\net6.0\ref\Task_1.dll
