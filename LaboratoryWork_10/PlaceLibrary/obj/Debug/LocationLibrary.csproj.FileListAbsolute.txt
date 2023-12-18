@@ -1,0 +1,6 @@
+D:\repos\Laboratory works\LaboratoryWork_10\PlaceLibrary\bin\Debug\PlaceLibrary.dll
+D:\repos\Laboratory works\LaboratoryWork_10\PlaceLibrary\bin\Debug\PlaceLibrary.pdb
+D:\repos\Laboratory works\LaboratoryWork_10\PlaceLibrary\obj\Debug\LocationLibrary.csproj.AssemblyReference.cache
+D:\repos\Laboratory works\LaboratoryWork_10\PlaceLibrary\obj\Debug\LocationLibrary.csproj.CoreCompileInputs.cache
+D:\repos\Laboratory works\LaboratoryWork_10\PlaceLibrary\obj\Debug\PlaceLibrary.dll
+D:\repos\Laboratory works\LaboratoryWork_10\PlaceLibrary\obj\Debug\PlaceLibrary.pdb

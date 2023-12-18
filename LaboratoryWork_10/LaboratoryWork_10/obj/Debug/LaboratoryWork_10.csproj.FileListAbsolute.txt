@@ -1,0 +1,11 @@
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\bin\Debug\LaboratoryWork_10.exe.config
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\bin\Debug\LaboratoryWork_10.exe
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\bin\Debug\LaboratoryWork_10.pdb
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\bin\Debug\PlaceLibrary.dll
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\bin\Debug\PlaceLibrary.pdb
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\obj\Debug\LaboratoryWork_10.csproj.AssemblyReference.cache
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\obj\Debug\LaboratoryWork_10.csproj.SuggestedBindingRedirects.cache
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\obj\Debug\LaboratoryWork_10.csproj.CoreCompileInputs.cache
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\obj\Debug\LaboratoryWork_10.csproj.CopyComplete
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\obj\Debug\LaboratoryWork_10.exe
+D:\repos\Laboratory works\LaboratoryWork_10\LaboratoryWork_10\obj\Debug\LaboratoryWork_10.pdb
