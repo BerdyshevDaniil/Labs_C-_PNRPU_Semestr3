@@ -1,0 +1,8 @@
+D:\repos\Laboratory works\LaboratoryWork_9\LaboratoryWork_9\obj\Debug\LaboratoryWork_9.csproj.AssemblyReference.cache
+D:\repos\Laboratory works\LaboratoryWork_9\LaboratoryWork_9\obj\Debug\LaboratoryWork_9.csproj.SuggestedBindingRedirects.cache
+D:\repos\Laboratory works\LaboratoryWork_9\LaboratoryWork_9\obj\Debug\LaboratoryWork_9.csproj.CoreCompileInputs.cache
+D:\repos\Laboratory works\LaboratoryWork_9\LaboratoryWork_9\bin\Debug\LaboratoryWork_9.exe.config
+D:\repos\Laboratory works\LaboratoryWork_9\LaboratoryWork_9\bin\Debug\LaboratoryWork_9.exe
+D:\repos\Laboratory works\LaboratoryWork_9\LaboratoryWork_9\bin\Debug\LaboratoryWork_9.pdb
+D:\repos\Laboratory works\LaboratoryWork_9\LaboratoryWork_9\obj\Debug\LaboratoryWork_9.exe
+D:\repos\Laboratory works\LaboratoryWork_9\LaboratoryWork_9\obj\Debug\LaboratoryWork_9.pdb
