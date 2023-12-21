@@ -1,0 +1,3 @@
+﻿  Diskretka1.cpp
+D:\repos\Diskretka\Diskretka1\Diskretka1\Diskretka1.cpp(375,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Diskretka1.vcxproj -> D:\repos\Diskretka\Diskretka1\x64\Debug\Diskretka1.exe

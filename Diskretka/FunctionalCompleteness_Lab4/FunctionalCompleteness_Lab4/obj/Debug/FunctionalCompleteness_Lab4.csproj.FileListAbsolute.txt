@@ -1,0 +1,8 @@
+D:\repos\Diskretka\FunctionalCompleteness_Lab4\FunctionalCompleteness_Lab4\obj\Debug\FunctionalCompleteness_Lab4.csproj.AssemblyReference.cache
+D:\repos\Diskretka\FunctionalCompleteness_Lab4\FunctionalCompleteness_Lab4\obj\Debug\FunctionalCompleteness_Lab4.csproj.SuggestedBindingRedirects.cache
+D:\repos\Diskretka\FunctionalCompleteness_Lab4\FunctionalCompleteness_Lab4\obj\Debug\FunctionalCompleteness_Lab4.csproj.CoreCompileInputs.cache
+D:\repos\Diskretka\FunctionalCompleteness_Lab4\FunctionalCompleteness_Lab4\bin\Debug\FunctionalCompleteness_Lab4.exe.config
+D:\repos\Diskretka\FunctionalCompleteness_Lab4\FunctionalCompleteness_Lab4\bin\Debug\FunctionalCompleteness_Lab4.exe
+D:\repos\Diskretka\FunctionalCompleteness_Lab4\FunctionalCompleteness_Lab4\bin\Debug\FunctionalCompleteness_Lab4.pdb
+D:\repos\Diskretka\FunctionalCompleteness_Lab4\FunctionalCompleteness_Lab4\obj\Debug\FunctionalCompleteness_Lab4.exe
+D:\repos\Diskretka\FunctionalCompleteness_Lab4\FunctionalCompleteness_Lab4\obj\Debug\FunctionalCompleteness_Lab4.pdb

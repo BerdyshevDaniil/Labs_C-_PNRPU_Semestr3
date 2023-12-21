@@ -1,0 +1,8 @@
+D:\repos\Diskretka\RelationsMatrix\RelationsMatrix\bin\Debug\RelationsMatrix.exe.config
+D:\repos\Diskretka\RelationsMatrix\RelationsMatrix\bin\Debug\RelationsMatrix.exe
+D:\repos\Diskretka\RelationsMatrix\RelationsMatrix\bin\Debug\RelationsMatrix.pdb
+D:\repos\Diskretka\RelationsMatrix\RelationsMatrix\obj\Debug\RelationsMatrix.csproj.AssemblyReference.cache
+D:\repos\Diskretka\RelationsMatrix\RelationsMatrix\obj\Debug\RelationsMatrix.csproj.SuggestedBindingRedirects.cache
+D:\repos\Diskretka\RelationsMatrix\RelationsMatrix\obj\Debug\RelationsMatrix.csproj.CoreCompileInputs.cache
+D:\repos\Diskretka\RelationsMatrix\RelationsMatrix\obj\Debug\RelationsMatrix.exe
+D:\repos\Diskretka\RelationsMatrix\RelationsMatrix\obj\Debug\RelationsMatrix.pdb

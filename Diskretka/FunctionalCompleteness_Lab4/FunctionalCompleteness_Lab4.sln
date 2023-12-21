@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalCompleteness_Lab4", "FunctionalCompleteness_Lab4\FunctionalCompleteness_Lab4.csproj", "{BC79526A-93AB-43D5-99E1-2CE971925E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC79526A-93AB-43D5-99E1-2CE971925E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC79526A-93AB-43D5-99E1-2CE971925E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC79526A-93AB-43D5-99E1-2CE971925E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC79526A-93AB-43D5-99E1-2CE971925E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DBC6D1D-2F89-457D-8FAE-B5386FEADFC9}
+	EndGlobalSection
+EndGlobal
